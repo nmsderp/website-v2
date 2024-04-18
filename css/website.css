@@ -1,0 +1,21 @@
+.javascript {
+    background-color: yellow;
+    color: black;
+}
+
+.html {
+    background-color: rgb(218, 47, 47);
+    color: white;
+}
+
+.python {
+    background-color: teal;
+}
+
+.php {
+    background-color: rgb(56, 56, 255);
+}
+
+.php a {
+    color: white;
+}
