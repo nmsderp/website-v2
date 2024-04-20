@@ -1,2 +1,2 @@
-# website-v6
-https://dumo.se
+# website-v2
+https://nmsderp.xyz
