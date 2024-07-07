@@ -9,6 +9,7 @@ document.head.appendChild(elem);
 let htmla = `
 <div class="footer">
     <p>made by nmsderp ${new Date().getFullYear()}</p>
+    <br>
     <a href="https://nmsderp.xyz" target="_blank"><img src="https://nmsderp.xyz/gif.gif" alt="nmsderp.xyz" title="nmsderp.xyz"></a>
 </div>`
 
